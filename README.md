@@ -54,6 +54,8 @@
   <img src="https://skillicons.dev/icons?i=cpp,cs,godot,ae,git,github&perline=6" alt="skill icons" />
 </p>
 
+ #### ~~个人博客与知识库施工中...~~
+
 <div align="center">
   <img width="100%" src="./assets/section-band-4.webp" alt="分隔图 4" />
 </div>
@@ -104,7 +106,6 @@
 
 ## ✧ ???
 
-<!-- GALLERY:START 本区块由 build.py 自动生成，手改会被覆盖 -->
 <table align="center">
   <tr>
     <td align="center" colspan="2" rowspan="2"><a href="./assets/gallery/mosaic/A.jpg"><img src="./assets/gallery/mosaic/A.jpg" width="251" height="237" alt="作品 A"></a></td>
